@@ -5,4 +5,3 @@ My GitHub reflects a fusion of my coding skills and design aesthetics, showcasin
 
 Let's build the future of AI-powered mobile experiences together!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rejawanul&layout=compact)
