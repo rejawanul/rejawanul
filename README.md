@@ -1,5 +1,5 @@
 # Rejawanul Haque
-from Bangladesh, and I'm a passionate React Native mobile app developer with a strong inclination towards AI applications. 
+I'm from Bangladesh, and I'm a passionate React Native mobile app developer with a strong inclination towards AI applications. 
 My GitHub reflects a fusion of my coding skills and design aesthetics, showcasing a blend of technology and creativity. 
 
 Let's build the future of AI-powered mobile experiences together!
@@ -13,7 +13,9 @@ Let's build the future of AI-powered mobile experiences together!
 
 
 - 🔭 I’m currently working on My own Company 
-- 🌱 I’m currently learning REACT NATIVE 
+- 🌱 I’m currently learning REACT NATIVE
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rejawanul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rejawanul/)  
