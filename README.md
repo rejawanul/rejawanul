@@ -1,10 +1,16 @@
-### Hi there 👋, I'm Rejawanul Haque
-I'm Reja from Bangladesh, and I'm a passionate React Native mobile app developer with a strong inclination towards AI applications. 
+# Rejawanul Haque
+from Bangladesh, and I'm a passionate React Native mobile app developer with a strong inclination towards AI applications. 
 My GitHub reflects a fusion of my coding skills and design aesthetics, showcasing a blend of technology and creativity. 
 
 Let's build the future of AI-powered mobile experiences together!
 
-Skills: PYTHON / REACT /  REACT NATIVE / JS / HTML / CSS
+
+## Skills and Experience
+* 🐍 Python
+* ⚛️ React
+* 📱 React Native
+* 🖥️ HTMS, CSS, JS
+
 
 - 🔭 I’m currently working on My own Company 
 - 🌱 I’m currently learning REACT NATIVE 
