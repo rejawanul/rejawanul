@@ -1,3 +1,6 @@
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+
 # Rejawanul Haque
 I'm from Bangladesh, and I'm a passionate React Native mobile app developer with a strong inclination towards AI applications. 
 My GitHub reflects a fusion of my coding skills and design aesthetics, showcasing a blend of technology and creativity. 
