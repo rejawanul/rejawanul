@@ -1,6 +1,8 @@
-### Hi there 👋, Rejawanul Haque
-#### AI based Software Developer
-![AI based Software Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+(https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+### Hi there 👋, I'm Rejawanul Haque
+#### AI-based Software Developer
+![AI-based Software Developer]
 
 I'm Reja from Bangladesh, and I'm a passionate React Native mobile app developer with a strong inclination towards AI applications. 
 My GitHub reflects a fusion of my coding skills and design aesthetics, showcasing a blend of technology and creativity. 
