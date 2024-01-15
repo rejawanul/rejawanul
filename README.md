@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rejawanul Haque</h1>
 <h3 align="center">A passionate AI based Application Developer</h3>
-<img align="right" alt="Coding" width ="400" src="https://gist.github.com/MedRedha/fd8e2481bde2610c96b9aafde543879c">
+<img align="right" alt="Coding" width ="400" src="[https://gist.github.com/MedRedha/fd8e2481bde2610c96b9aafde543879c](https://github.com/rejawanul/rejawanul/blob/main/coding.gif)">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rejawanul&label=Profile%20views&color=0e75b6&style=flat" alt="rejawanul" /> </p>
