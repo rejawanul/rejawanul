@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rejawanul Haque</h1>
-<h3 align="center">A passionate AI based Application Developer</h3>
+<h3 align="center"> A passionate Computer Vision Enthusiast</h3>
 
 <img align="right" alt="Coding" width ="400" src="https://raw.githubusercontent.com/rejawanul/rejawanul/main/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rejawanul&label=Profile%20views&color=0e75b6&style=flat" alt="rejawanul" /> </p>
 
-I'm **Reja** from **Bangladesh**, and I'm a passionate **React Native** mobile app developer with a strong inclination towards **AI applications**. My GitHub reflects a fusion of my coding skills and design aesthetics, showcasing a blend of technology and creativity. 
+I'm **Reja** from **Bangladesh**, a **passionate Computer Vision Enthusiast** with a strong interest in AI applications. My GitHub showcases a **fusion of coding**, **machine learning**, and **design**, where technology meets creativity.
 
-Let's build the future of AI-powered mobile experiences **together**!
+Let’s innovate and shape the future of AI-driven visual intelligence together!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
